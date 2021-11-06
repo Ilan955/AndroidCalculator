@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ex4</string>
+    <string name="calculator_string">Exercise 4: Complex calculator</string>
+    <string name="opernad1">operand1</string>
+    <string name="opernad2">operand2</string>
+    <string name="equals">=</string>
+
+
+
+</resources>
